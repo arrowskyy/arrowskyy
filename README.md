@@ -3,15 +3,4 @@ https://arrowsky.atabook.org/
 https://arrowsky.atabook.org/
 
 
-const playlistId = '4LHvDj8UHOCBmhbuKOOwZE';
-
-<iframe
-  title="Spotify Embed: Recommendation Playlist "
-  src={`https://open.spotify.com/embed/playlist/4LHvDj8UHOCBmhbuKOOwZE?utm_source=generator&theme=0`}
-  width="100%"
-  height="100%"
-  style={{ minHeight: '360px' }}
-  frameBorder="0"
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy"
-/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31urn4uxlsrl6cgdsuhtbftqxyh4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
